@@ -1,0 +1,10 @@
+﻿fewbit.SiLU
+===========
+
+.. currentmodule:: fewbit
+
+.. autoclass:: SiLU
+   :members:
+   :no-inherited-members:
+   :no-undoc-members:
+

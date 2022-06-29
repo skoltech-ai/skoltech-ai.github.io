@@ -1,0 +1,10 @@
+﻿fewbit.RandomizedLinear
+=======================
+
+.. currentmodule:: fewbit
+
+.. autoclass:: RandomizedLinear
+   :members:
+   :no-inherited-members:
+   :no-undoc-members:
+

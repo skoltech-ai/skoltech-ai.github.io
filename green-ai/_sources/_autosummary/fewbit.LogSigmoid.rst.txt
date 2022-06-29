@@ -1,0 +1,10 @@
+﻿fewbit.LogSigmoid
+=================
+
+.. currentmodule:: fewbit
+
+.. autoclass:: LogSigmoid
+   :members:
+   :no-inherited-members:
+   :no-undoc-members:
+

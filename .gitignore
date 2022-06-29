@@ -1,0 +1,2 @@
+# Ignore Sphinx cache directory.
+.doctrees

@@ -1,0 +1,10 @@
+﻿fewbit.Tanhshrink
+=================
+
+.. currentmodule:: fewbit
+
+.. autoclass:: Tanhshrink
+   :members:
+   :no-inherited-members:
+   :no-undoc-members:
+

@@ -1,0 +1,6 @@
+﻿fewbit.map\_module
+==================
+
+.. currentmodule:: fewbit
+
+.. autofunction:: map_module

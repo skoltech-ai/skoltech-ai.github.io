@@ -1,0 +1,10 @@
+﻿fewbit.Tanh
+===========
+
+.. currentmodule:: fewbit
+
+.. autoclass:: Tanh
+   :members:
+   :no-inherited-members:
+   :no-undoc-members:
+

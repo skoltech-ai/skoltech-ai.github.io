@@ -1,0 +1,99 @@
+.. Green AI documentation master file, created by
+   sphinx-quickstart on Thu May 19 00:26:04 2022.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Green AI Documentation
+======================
+
+.. toctree::
+   :caption: Libraries
+   :maxdepth: 1
+   :titlesonly:
+   :hidden:
+
+   fewbit
+   greenai_gpt
+   light_attention
+
+
+.. contents::
+   :local:
+   :backlinks: top
+
+.. We expected that all autosummaries enumerated below are actually included in
+   toctree in subfiles.
+
+Layers
+------
+
+Dropout Layers
+^^^^^^^^^^^^^^
+
+.. autosummary::
+   :nosignatures:
+   :template: custom-class.rst
+
+   light_attention.nn.modules.drop_matmul.DropMatmul
+
+Linear Layers
+^^^^^^^^^^^^^
+
+.. autosummary::
+   :nosignatures:
+   :template: custom-class.rst
+
+   fewbit.RandomizedLinear
+   greenai_gpt.TTMLinear
+
+
+Non-Linear Activations
+^^^^^^^^^^^^^^^^^^^^^^
+
+.. autosummary::
+   :nosignatures:
+   :template: custom-class.rst
+
+   fewbit.CELU
+   fewbit.ELU
+   fewbit.GELU
+   fewbit.Hardshrink
+   fewbit.Hardsigmoid
+   fewbit.Hardswish
+   fewbit.Hardtanh
+   fewbit.LeakyReLU
+   fewbit.LogSigmoid
+   fewbit.Mish
+   fewbit.ReLU
+   fewbit.ReLU6
+   fewbit.SELU
+   fewbit.SiLU
+   fewbit.Sigmoid
+   fewbit.Softplus
+   fewbit.Softshrink
+   fewbit.Softsign
+   fewbit.Tanh
+   fewbit.Tanhshrink
+   fewbit.Threshold
+   light_attention.models.bert.LightBertAttention
+   light_attention.models.gpt2.LightGPT2Attention
+   light_attention.nn.modules.light_softmax.LightSoftmax
+
+
+Models
+------
+
+GPT-2
+^^^^^
+
+.. autosummary::
+   :nosignatures:
+   :template: custom-class.rst
+
+   greenai_gpt.GPT2_TT_Model
+   light_attention.models.gpt2.LightGPT2Model
+
+Indices and Tables
+------------------
+
+* :ref:`genindex`

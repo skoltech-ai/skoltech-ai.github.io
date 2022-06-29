@@ -1,0 +1,10 @@
+﻿light\_attention.models.gpt2.LightGPT2Model
+===========================================
+
+.. currentmodule:: light_attention.models.gpt2
+
+.. autoclass:: LightGPT2Model
+   :members:
+   :no-inherited-members:
+   :no-undoc-members:
+

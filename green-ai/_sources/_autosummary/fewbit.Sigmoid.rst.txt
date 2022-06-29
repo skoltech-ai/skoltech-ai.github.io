@@ -1,0 +1,10 @@
+﻿fewbit.Sigmoid
+==============
+
+.. currentmodule:: fewbit
+
+.. autoclass:: Sigmoid
+   :members:
+   :no-inherited-members:
+   :no-undoc-members:
+

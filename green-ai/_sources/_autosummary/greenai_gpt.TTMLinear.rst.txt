@@ -1,0 +1,10 @@
+﻿greenai\_gpt.TTMLinear
+======================
+
+.. currentmodule:: greenai_gpt
+
+.. autoclass:: TTMLinear
+   :members:
+   :no-inherited-members:
+   :no-undoc-members:
+

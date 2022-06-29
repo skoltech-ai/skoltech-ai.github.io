@@ -1,0 +1,10 @@
+﻿fewbit.Softsign
+===============
+
+.. currentmodule:: fewbit
+
+.. autoclass:: Softsign
+   :members:
+   :no-inherited-members:
+   :no-undoc-members:
+

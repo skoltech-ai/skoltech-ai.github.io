@@ -1,0 +1,10 @@
+﻿fewbit.Hardtanh
+===============
+
+.. currentmodule:: fewbit
+
+.. autoclass:: Hardtanh
+   :members:
+   :no-inherited-members:
+   :no-undoc-members:
+

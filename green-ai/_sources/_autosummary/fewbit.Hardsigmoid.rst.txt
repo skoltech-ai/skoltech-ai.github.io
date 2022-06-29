@@ -1,0 +1,10 @@
+﻿fewbit.Hardsigmoid
+==================
+
+.. currentmodule:: fewbit
+
+.. autoclass:: Hardsigmoid
+   :members:
+   :no-inherited-members:
+   :no-undoc-members:
+

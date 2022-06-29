@@ -1,0 +1,10 @@
+﻿fewbit.SELU
+===========
+
+.. currentmodule:: fewbit
+
+.. autoclass:: SELU
+   :members:
+   :no-inherited-members:
+   :no-undoc-members:
+

@@ -1,0 +1,10 @@
+﻿fewbit.Threshold
+================
+
+.. currentmodule:: fewbit
+
+.. autoclass:: Threshold
+   :members:
+   :no-inherited-members:
+   :no-undoc-members:
+

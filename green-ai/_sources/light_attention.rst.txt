@@ -1,0 +1,33 @@
+Light Attention
+===============
+
+.. contents::
+   :local:
+   :backlinks: top
+
+.. currentmodule:: light_attention
+
+Layers
+------
+
+.. autosummary::
+   :toctree: _autosummary
+   :nosignatures:
+   :template: custom-class.rst
+
+   models.bert.LightBertAttention
+   models.gpt2.LightGPT2Attention
+   nn.modules.drop_matmul.DropMatmul
+   nn.modules.light_softmax.LightSoftmax
+
+Models
+------
+
+.. currentmodule:: light_attention.models.gpt2
+
+.. autosummary::
+   :toctree: _autosummary
+   :nosignatures:
+   :template: custom-class.rst
+
+   LightGPT2Model

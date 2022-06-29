@@ -1,0 +1,10 @@
+﻿fewbit.CELU
+===========
+
+.. currentmodule:: fewbit
+
+.. autoclass:: CELU
+   :members:
+   :no-inherited-members:
+   :no-undoc-members:
+

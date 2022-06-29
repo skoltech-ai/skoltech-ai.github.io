@@ -1,0 +1,48 @@
+FewBit
+======
+
+.. contents::
+   :local:
+   :backlinks: top
+
+.. currentmodule:: fewbit
+
+Layers
+------
+
+.. autosummary::
+   :toctree: _autosummary
+   :nosignatures:
+   :template: custom-class.rst
+
+   CELU
+   ELU
+   GELU
+   Hardshrink
+   Hardsigmoid
+   Hardswish
+   Hardtanh
+   LeakyReLU
+   LogSigmoid
+   Mish
+   RandomizedLinear
+   ReLU
+   ReLU6
+   SELU
+   SiLU
+   Sigmoid
+   Softplus
+   Softshrink
+   Softsign
+   Tanh
+   Tanhshrink
+   Threshold
+
+Utils
+-----
+
+.. autosummary::
+   :toctree: _autosummary
+   :nosignatures:
+
+   map_module

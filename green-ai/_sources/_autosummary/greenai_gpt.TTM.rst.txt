@@ -1,0 +1,10 @@
+﻿greenai\_gpt.TTM
+================
+
+.. currentmodule:: greenai_gpt
+
+.. autoclass:: TTM
+   :members:
+   :no-inherited-members:
+   :no-undoc-members:
+

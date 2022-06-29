@@ -1,0 +1,10 @@
+﻿greenai\_gpt.GPT2\_TT\_Model
+============================
+
+.. currentmodule:: greenai_gpt
+
+.. autoclass:: GPT2_TT_Model
+   :members:
+   :no-inherited-members:
+   :no-undoc-members:
+

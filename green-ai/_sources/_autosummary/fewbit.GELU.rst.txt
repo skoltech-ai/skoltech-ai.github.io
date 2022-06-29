@@ -1,0 +1,10 @@
+﻿fewbit.GELU
+===========
+
+.. currentmodule:: fewbit
+
+.. autoclass:: GELU
+   :members:
+   :no-inherited-members:
+   :no-undoc-members:
+

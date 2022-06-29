@@ -1,0 +1,36 @@
+GreenAI GPT
+===========
+
+.. contents::
+   :local:
+   :backlinks: top
+
+.. currentmodule:: greenai_gpt
+
+Layers
+------
+.. autosummary::
+    :toctree: _autosummary
+    :nosignatures:
+    :template: custom-class.rst
+
+    TTMLinear
+
+Models
+------
+.. autosummary::
+    :toctree: _autosummary
+    :nosignatures:
+    :template: custom-class.rst
+
+    GPT2_TT_Model
+
+Utils
+-----
+.. autosummary::
+    :toctree: _autosummary
+    :nosignatures:
+    :template: custom-class.rst
+
+    TTM
+    TTMContainer

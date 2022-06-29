@@ -1,0 +1,10 @@
+﻿light\_attention.nn.modules.drop\_matmul.DropMatmul
+===================================================
+
+.. currentmodule:: light_attention.nn.modules.drop_matmul
+
+.. autoclass:: DropMatmul
+   :members:
+   :no-inherited-members:
+   :no-undoc-members:
+

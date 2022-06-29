@@ -1,0 +1,10 @@
+﻿light\_attention.nn.modules.light\_softmax.LightSoftmax
+=======================================================
+
+.. currentmodule:: light_attention.nn.modules.light_softmax
+
+.. autoclass:: LightSoftmax
+   :members:
+   :no-inherited-members:
+   :no-undoc-members:
+

@@ -1,0 +1,10 @@
+﻿fewbit.Hardswish
+================
+
+.. currentmodule:: fewbit
+
+.. autoclass:: Hardswish
+   :members:
+   :no-inherited-members:
+   :no-undoc-members:
+

@@ -1,0 +1,10 @@
+﻿fewbit.Hardshrink
+=================
+
+.. currentmodule:: fewbit
+
+.. autoclass:: Hardshrink
+   :members:
+   :no-inherited-members:
+   :no-undoc-members:
+

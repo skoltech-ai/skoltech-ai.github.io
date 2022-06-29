@@ -1,0 +1,10 @@
+﻿fewbit.Softplus
+===============
+
+.. currentmodule:: fewbit
+
+.. autoclass:: Softplus
+   :members:
+   :no-inherited-members:
+   :no-undoc-members:
+

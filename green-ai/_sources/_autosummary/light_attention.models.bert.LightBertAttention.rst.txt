@@ -1,0 +1,10 @@
+﻿light\_attention.models.bert.LightBertAttention
+===============================================
+
+.. currentmodule:: light_attention.models.bert
+
+.. autoclass:: LightBertAttention
+   :members:
+   :no-inherited-members:
+   :no-undoc-members:
+

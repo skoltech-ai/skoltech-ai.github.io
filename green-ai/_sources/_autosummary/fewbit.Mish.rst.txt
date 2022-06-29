@@ -1,0 +1,10 @@
+﻿fewbit.Mish
+===========
+
+.. currentmodule:: fewbit
+
+.. autoclass:: Mish
+   :members:
+   :no-inherited-members:
+   :no-undoc-members:
+
